@@ -13,10 +13,10 @@ var currentIndex = 0
 const app = {
     songs: [
         {
-            name: 'Sau lưng anh có ai kìa',
-            singer: 'Thiều Bảo Trâm',
-            path: './assets/songs/Sau Lung Anh Co Ai Kia - Thieu Bao Tram.mp3',
-            image: 'https://i.ytimg.com/vi/1jx-BcAu5i4/maxresdefault.jpg'
+            name: 'Nhạc thiếu nhi',
+            singer: 'Bác sĩ hải',
+            path: './assets/songs/Nonstop2020BestBuBongVol5-DJBacSiHai-6215366.mp3',
+            image: 'https://i1.sndcdn.com/artworks-rLRffryJCvjMAd3v-zBO4kA-t500x500.jpg'
         },
         {
             name: "1 phút",
